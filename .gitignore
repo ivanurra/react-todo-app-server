@@ -1,0 +1,14 @@
+# Dependency directory
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# Environment Variables should NEVER be published
+.env
+
+#DS_Store
+.DS_Store
+
+#yaar-error.log
+yarn-error.log
